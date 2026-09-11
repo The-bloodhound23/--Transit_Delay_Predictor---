@@ -1,6 +1,6 @@
 # TTC Subway Delay Predictor
 
-A beginner machine learning project that predicts whether a reported TTC subway incident will cause an actual service delay, using real, public Toronto Transit Commission data.
+A machine learning project that predicts whether a reported TTC subway incident will cause an actual service delay, using real, public Toronto Transit Commission data.
 
 ## The question this project answers
 
