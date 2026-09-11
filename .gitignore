@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated intermediate data and trained models (reproducible by re-running
+# the scripts in src/ in order) -- kept out of the repo to keep it lightweight.
+data/clean_subway_delays.csv
+data/encoded_subway_delays.csv
+data/X_test.csv
+data/y_test.csv
+data/*.joblib
